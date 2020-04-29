@@ -1,0 +1,40 @@
+
+.background {
+    background-image: url("http://www.strawberryrecruitment.com/wp-content/themes/strawberryrecruitment/img/bg1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: cover;
+    background-position: 50% 35%;
+}
+
+.container-fluid {
+    margin-top: 150px;
+    text-align: center; 
+    color: white;   
+        
+}
+
+.row {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.icon {
+    height: 50px;
+}
+.col-sm {
+    padding: 10px;
+}
+
+.box{
+    box-align: border-box;
+    border: 10px solid transparent;
+    background-clip:padding-box;
+  }
+
+.container-fluid2 {
+
+    margin-left: 25px;
+    margin-right: 25px;
+}
+

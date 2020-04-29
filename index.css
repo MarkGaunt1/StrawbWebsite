@@ -1,0 +1,78 @@
+
+.background {
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: cover;
+    background-position: 50% 35%;
+}
+
+
+
+.top-boxes {
+    margin-top: 150px;
+    text-align: center; 
+    color: white;   
+        
+}
+
+
+.row {
+    
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.list {
+    list-style-type: disc;
+    text-align: left;
+}
+
+.icon {
+    height: 50px;
+}
+.col-sm {
+    
+    padding: 10px;
+    
+}
+
+
+.box{
+    box-align: border-box;
+    border: 10px solid transparent;
+    background-clip:padding-box;
+  }
+
+.white-box {
+
+    margin-left: 10px;
+    margin-right: 10px;
+    color: gray;
+}
+
+.second-box-pg2 {
+
+    margin-top: 20px;
+    color: gray;
+    
+}
+
+.boxes-pg4 {
+    color: white;
+    text-align: center;
+}
+
+.bottom-box-pg4 {
+    margin-left:10px;
+    margin-right: 10px;
+
+}
+
+.footer {
+    
+    width: 100%;
+    font-size: small;
+    color: white;
+}
+

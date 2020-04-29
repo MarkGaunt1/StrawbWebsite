@@ -1,0 +1,52 @@
+
+.background-pg2 {
+    background-image:linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("http://www.strawberryrecruitment.com/wp-content/themes/strawberryrecruitment/img/bg4.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: cover;
+    background-position: 50% 35%;
+    
+}
+
+.top-boxes {
+    margin-top: 150px;
+    text-align: center; 
+    color: white;   
+        
+}
+
+.list {
+    list-style-type: disc;
+    text-align: left;
+}
+
+
+.row {
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+
+.icon {
+    height: 50px;
+}
+.col-sm {
+    padding: 10px;
+}
+
+
+
+.second-box-pg2 {
+
+    margin-top: 20px;
+    
+}
+
+
+
+.footer {
+    
+    
+    font-size: small;
+    color: white;
+}
